@@ -1,3 +1,8 @@
+# Başlangıç Tarihi: 20.05.2021
+# Bitiş Tarihi: 22.05.2021 – 18:45
+# instagram.com/yazilimfuryasi
+# yazilimfuryasi.com
+
 from tkinter import * 
 from tkinter import ttk, messagebox
 import sqlite3
